@@ -48,6 +48,7 @@ header h1 {
   font-family: "Montserrat", sans-serif;
   color: hsl(233, 13%, 49%);
   margin: 50px;
+  text-align: center;
 }
 
 .plan {
